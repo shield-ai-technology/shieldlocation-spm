@@ -1,6 +1,6 @@
 # ShieldLocationAnalysisSPM
 
-ShieldLocationAnalysisSPM(shieldfraud-spm) is the ShieldLocationAnalysis Swift Package Manager. For more details, visit [www.shield.com](https://www.shield.com).
+ShieldLocationAnalysisSPM(shieldlocation-spm) is the ShieldLocationAnalysis Swift Package Manager. For more details, visit [www.shield.com](https://www.shield.com).
 
 ## Integrate the SDK
 
