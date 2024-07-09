@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "shieldfraud-spm",
+        "repositoryURL": "https://github.com/shield-ai-technology/shieldfraud-spm.git",
+        "state": {
+          "branch": "main",
+          "revision": "d3c2edb48cdb8dd51aaabaf1f6b119612f48b8b2",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
