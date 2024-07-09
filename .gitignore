@@ -91,3 +91,4 @@ iOSInjectionProject/
 Frameworks/SwiftProtobuf.xcframework/ios-arm64_x86_64-simulator/SwiftProtobuf.framework/.DS_Store
 Frameworks/SwiftProtobuf.xcframework/ios-arm64/SwiftProtobuf.framework/.DS_Store
 Frameworks/SwiftProtobuf.xcframework/ios-arm64_x86_64-simulator/.DS_Store
+.DS_Store
