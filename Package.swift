@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ShieldLocationAnalysisSPM",
-            url: "https://s3.amazonaws.com/cashshield-sdk/shieldlocation-spm-ios-swift-1-0-1.zip",
-            checksum: "a6e9072f8daeb93b731fe614f68dd922cf3cfa38620724dfda0f322d5d134119"
+            url: "https://s3.amazonaws.com/cashshield-sdk/shieldlocation-spm-ios-swift-1-0-2.zip",
+            checksum: "8e7d9c8dc59b5a8b0e721d2eb60d7fb66717d007c781eb99779a7fbdb034b9aa"
         ),
         .binaryTarget(
             name: "SwiftProtobuf",
