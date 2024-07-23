@@ -14,7 +14,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/shield-ai-technology/shieldfraud-spm.git", branch: "main")
+        .package(url: "https://github.com/shield-ai-technology/shieldfraud-spm.git", from: "1.5.42")
     ],
     targets: [
         .binaryTarget(
