@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/shield-ai-technology/shieldfraud-spm.git",
         "state": {
           "branch": null,
-          "revision": "b91c6fafd85017d4a2d33d18ecd84851a326d18c",
-          "version": "1.5.43"
+          "revision": "47fa80ab59c290ab649c6c2a223977cc93c4c2b1",
+          "version": "1.5.50"
         }
       }
     ]
