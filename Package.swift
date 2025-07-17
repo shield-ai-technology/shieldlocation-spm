@@ -1,8 +1,8 @@
 // swift-tools-version:5.5
 
 import PackageDescription
-let version = "1-0-5-beta"
-let shieldlocation_checksum = "18085ac92ea4ef78ddd3f4f64c08bccb4437f2bc7be6e419f3596195c9d3be24"
+let version = "1-0-5"
+let shieldlocation_checksum = "ec8ab5293cd44d71e66ae194ffccae46b3a77345789e781d8c5551a566b49b89"
 
 let package = Package(
     name: "shieldlocation-spm",
@@ -21,7 +21,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ShieldLocationAnalysisSPM",
-            url: "https://cashshield-sdk.s3.us-east-1.amazonaws.com/shieldlocation-spm-ios-swift-\(version).zip",
+            url: "https://s3.amazonaws.com/cashshield-sdk/shieldlocation-spm-ios-swift-\(version).zip",
             checksum: shieldlocation_checksum
         ),
         .target(
